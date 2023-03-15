@@ -1,7 +1,7 @@
 {
-  "version": "0.5",
-  "name": "Terra Demo Update",
-  "description": "Used to demo update system seen in version beta 4",
-  "change_log": ["Demo change 1", "demo change 2", "demo change 3", "demo change 4"],
+  "version": "0.4",
+  "name": "Update Title",
+  "description": "Description",
+  "change_log": ["Change log"],
   "installer_url": "https://github.com/its-jared/Terra/blob/main/update_installer/Terra%20Beta%203b%20Installer.exe?raw=true"
 }
