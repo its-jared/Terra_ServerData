@@ -1,5 +1,6 @@
 {
-  "version": "0.4",
+  "version": "0.4b",
+  "long_version": "Beta 4b",
   "name": "Update Title",
   "description": "Description",
   "change_log": ["Change log"],
