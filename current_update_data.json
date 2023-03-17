@@ -1,8 +1,8 @@
 {
-  "version": "0.4b",
-  "long_version": "Beta 4b",
+  "version": "0.4",
+  "long_version": "Beta 4",
   "name": "Update Title",
   "description": "Description",
   "change_log": ["Change log"],
-  "installer_url": "https://github.com/its-jared/Terra_ServerData/blob/main/update_installer/Terra%20Beta%203b%20Installer.exe?raw=true"
+  "installer_url": "Update Link"
 }
